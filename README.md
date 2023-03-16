@@ -1,7 +1,7 @@
 # IBM HR: Employee Attrition Analysis
 ## by Trevlyin M.I Muzinda
 
-[
+![attrition](High-employee-turnover.jpg)
 
 ## Dataset
 
